@@ -1,15 +1,14 @@
 CROPSYSTUDIO SOFTWARE LICENSE AGREEMENT
 
 Copyright (c) 2026 Cropsy.
-All rights reserved.
+**All rights reserved.**
 
 IMPORTANT:
 By downloading, installing, copying, accessing, or using CropsyStudio
 (the "Software"), You agree to be bound by the terms of this License
 Agreement.
 
-If you do not agree to these terms, you may not use the Software.
-
+**If you do not agree to these terms, you shall not use the program.**
 ────────────────────────────────────────────────────────
 
 1. GRANT OF USE
