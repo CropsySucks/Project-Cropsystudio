@@ -21,9 +21,9 @@ No ownership rights are transferred.
 
 ────────────────────────────────────────────────────────
 
-2. RESTRICTIONS
+2. RESTRICTONS
 
-You may NOT, directly or indirectly:
+You may **NOT**, directly or indirectly:
 
 a) Modify, edit, alter, adapt, translate, or create derivative works
 of the Software or any part of it.
