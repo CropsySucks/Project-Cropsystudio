@@ -51,7 +51,7 @@ applicable laws or regulations.
 The Software, including but not limited to all code, designs,
 interfaces, systems, assets, branding, names, logos, documentation,
 and related materials, remains the exclusive property of
-Mrshiny Official.
+Cropsy.
 
 All rights not expressly granted under this License are reserved.
 
@@ -106,7 +106,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 8. CHANGES TO THIS LICENSE
 
 The copyright owner reserves the right to modify or replace this
-License Agreement at any time.
+License Agreement at any time. Including without notice.
 
 ────────────────────────────────────────────────────────
 
