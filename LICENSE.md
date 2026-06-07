@@ -8,7 +8,7 @@ By downloading, installing, copying, accessing, or using CropsyStudio
 (the "Software"), You agree to be bound by the terms of this License
 Agreement.
 
-**If you do not agree to these terms, you shall not use the program.**
+**If you do not agree to these terms, you may not use the program.**
 ────────────────────────────────────────────────────────
 
 1. GRANT OF USE
@@ -105,8 +105,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 8. CHANGES TO THIS LICENSE
 
-The copyright owner reserves the right to modify or replace this
-License Agreement at any time. Including without notice.
+The version of the License Agreement included with the Software at the time of download shall govern that copy of the Software.
 
 ────────────────────────────────────────────────────────
 
