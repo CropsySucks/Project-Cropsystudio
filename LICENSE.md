@@ -4,113 +4,230 @@ CROPSYSTUDIO SOFTWARE LICENSE AGREEMENT
 **All rights reserved.**
 
 IMPORTANT:
-By downloading, installing, copying, accessing, or using CropsyStudio
-(the "Software"), You agree to be bound by the terms of this License
-Agreement.
+By downloading, installing, copying, accessing, executing, possessing,
+or using CropsyStudio (the "Software"), You agree to be legally bound
+by the terms of this Software License Agreement ("Agreement").
 
-**If you do not agree to these terms, you may not use the program.**
-────────────────────────────────────────────────────────
-
-1. GRANT OF USE
-
-Permission is granted to use the Software solely for personal,
-non-commercial, and authorized purposes as provided by the copyright owner.
-
-This License grants only a limited right to use the Software.
-No ownership rights are transferred.
+**If you do not agree to these terms, you may not download, install,
+access, copy, execute, distribute, or use the Software.**
 
 ────────────────────────────────────────────────────────
 
-2. RESTRICTONS
+1. LIMITED LICENSE GRANT
 
-You may **NOT**, directly or indirectly:
+Subject to full compliance with this Agreement, Cropsy Interactive
+("Licensor") grants You a limited, personal, non-exclusive,
+non-transferable, non-sublicensable, revocable license solely to use
+the Software for its intended purpose.
 
-a) Modify, edit, alter, adapt, translate, or create derivative works
-of the Software or any part of it.
+No ownership rights, intellectual property rights, title, or interests
+in the Software are transferred to You under this Agreement.
 
-b) Reverse engineer, decompile, disassemble, or attempt to extract
-source code, internal systems, or proprietary components of the Software.
-
-c) Redistribute, share, upload, mirror, repost, transfer, sublicense,
-lease, sell, publish, or provide copies of the Software to any person,
-organization, website, service, or platform.
-
-d) Repackage or bundle the Software with other software, products,
-services, or content.
-
-e) Remove, alter, or hide any copyright notices, branding, or ownership
-marks, or legal notices contained within the Software.
-
-f) Use the Software in any unlawful manner or in violation of
-applicable laws or regulations.
+The Software is licensed, not sold.
 
 ────────────────────────────────────────────────────────
 
-3. OWNERSHIP
+2. RESTRICTIONS
 
-The Software, including but not limited to all code, designs,
-interfaces, systems, assets, branding, names, logos, documentation,
-and related materials, remains the exclusive property of
-Cropsy.
+Except where prohibited by applicable law, You may **NOT**, directly
+or indirectly:
 
-All rights not expressly granted under this License are reserved.
+a) Modify, edit, alter, adapt, translate, update, enhance, port,
+customize, merge, or create derivative works based upon the Software
+or any portion thereof.
+
+b) Reverse engineer, decompile, disassemble, decode, analyze, inspect,
+circumvent, bypass, unlock, or otherwise attempt to derive, obtain,
+discover, access, reconstruct, or extract any source code, algorithms,
+logic, architecture, protocols, systems, trade secrets, or proprietary
+information contained within the Software.
+
+c) Copy, reproduce, duplicate, archive, mirror, publish, upload,
+transmit, distribute, share, host, provide access to, rent, lease,
+loan, sublicense, sell, resell, assign, transfer, or otherwise make
+the Software available to any third party.
+
+d) Repackage, bundle, incorporate, embed, or include the Software
+within any other software, service, framework, product, platform,
+distribution, installer, or offering.
+
+e) Remove, alter, obscure, bypass, disable, or conceal any copyright
+notice, trademark, branding, ownership notice, watermark, attribution,
+security mechanism, or legal notice contained within the Software.
+
+f) Use the Software for any commercial purpose without prior written
+authorization from the Licensor.
+
+g) Use the Software to develop, assist, train, benchmark, improve,
+or create any competing software, platform, engine, framework, tool,
+or service.
+
+h) Circumvent, disable, interfere with, or attempt to defeat any
+security, authentication, licensing, access-control, anti-tampering,
+anti-copying, or technical protection measures implemented within
+the Software.
+
+i) Permit, assist, encourage, authorize, or enable any third party
+to engage in any activity prohibited under this Agreement.
+
+────────────────────────────────────────────────────────
+
+3. INTELLECTUAL PROPERTY OWNERSHIP
+
+The Software and all associated intellectual property rights are and
+shall remain the exclusive property of Cropsy Interactive and its
+licensors.
+
+This includes, without limitation:
+
+* source code
+* object code
+* scripts
+* engines
+* systems
+* algorithms
+* architecture
+* interfaces
+* visual designs
+* graphics
+* audio
+* documentation
+* trademarks
+* logos
+* branding
+* names
+* updates
+* improvements
+* derivative elements owned by the Licensor
+
+All rights not expressly granted herein are reserved exclusively by
+the Licensor.
 
 ────────────────────────────────────────────────────────
 
 4. NO DISTRIBUTION AUTHORIZED
 
-Distribution of the Software is strictly prohibited unless explicit
-written permission has been granted by the copyright owner.
+Distribution of the Software is strictly prohibited unless expressly
+authorized in advance through written permission issued by the Licensor.
 
-This restriction applies to both public and private distribution methods,
-including but not limited to:
+This prohibition applies to all forms of distribution, whether public,
+private, free, paid, modified, unmodified, direct, indirect, physical,
+digital, temporary, or permanent, including but not limited to:
 
-- file sharing services
-- cloud storage sharing
-- repositories
-- archives
-- direct messaging
-- USB or physical transfer
-- modified or unmodified copies
+* websites
+* repositories
+* cloud storage
+* file sharing services
+* archives
+* mirrors
+* direct messaging
+* email
+* peer-to-peer networks
+* removable media
+* physical transfer
+* software bundles
+* backup distributions to third parties
+
+Any unauthorized distribution constitutes a material breach of this
+Agreement and may constitute copyright infringement.
 
 ────────────────────────────────────────────────────────
 
 5. TERMINATION
 
-This License automatically terminates immediately upon violation of
-any term within this Agreement.
+This Agreement shall automatically terminate immediately and without
+notice if You violate any provision of this Agreement.
 
-Upon termination, you must immediately stop using the Software
-and delete all copies in your possession or control. All rights
-granted under this License are immediately revoked.
+Upon termination, all licenses and rights granted to You immediately
+cease.
+
+You must promptly:
+
+a) discontinue all use of the Software;
+
+b) destroy or permanently delete all copies of the Software under
+Your possession, custody, or control;
+
+c) cease any ongoing distribution, hosting, sharing, or access
+provision involving the Software.
+
+Termination shall not limit any legal or equitable remedies available
+to the Licensor.
 
 ────────────────────────────────────────────────────────
 
 6. DISCLAIMER OF WARRANTY
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES
+OR CONDITIONS OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY, OR
+OTHERWISE.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSOR
+DISCLAIMS ALL WARRANTIES, INCLUDING BUT NOT LIMITED TO WARRANTIES OF:
+
+* MERCHANTABILITY
+* FITNESS FOR A PARTICULAR PURPOSE
+* TITLE
+* NON-INFRINGEMENT
+* ACCURACY
+* RELIABILITY
+* AVAILABILITY
+* SECURITY
+
+THE LICENSOR DOES NOT WARRANT THAT THE SOFTWARE WILL BE ERROR-FREE,
+UNINTERRUPTED, OR FREE OF DEFECTS.
 
 ────────────────────────────────────────────────────────
 
 7. LIMITATION OF LIABILITY
 
-IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR
-ANY CLAIM, DAMAGES, LOSSES, OR OTHER LIABILITY, WHETHER IN AN ACTION
-OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION
-WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL
+THE LICENSOR, CONTRIBUTORS, AFFILIATES, OFFICERS, EMPLOYEES, AGENTS,
+OR REPRESENTATIVES BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, CONSEQUENTIAL, PUNITIVE, OR OTHER DAMAGES,
+INCLUDING LOSS OF DATA, LOSS OF PROFITS, BUSINESS INTERRUPTION,
+LOSS OF GOODWILL, OR SYSTEM FAILURE, ARISING OUT OF OR RELATING TO
+THE SOFTWARE OR THIS AGREEMENT.
+
+THIS LIMITATION APPLIES REGARDLESS OF THE THEORY OF LIABILITY AND
+EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
 ────────────────────────────────────────────────────────
 
-8. CHANGES TO THIS LICENSE
+8. UPDATES AND LICENSE CHANGES
 
-The version of the License Agreement included with the Software at the time of download shall govern that copy of the Software.
+The version of this Agreement included with the Software at the time
+of acquisition shall govern that specific copy of the Software unless
+otherwise required by applicable law.
 
 ────────────────────────────────────────────────────────
 
-9. ACCEPTANCE
+9. GOVERNING LAW
 
-By using CropsyStudio, you acknowledge that you have read,
-understood, and agreed to this License Agreement.
+This Agreement shall be governed by and construed in accordance with
+the laws applicable in the jurisdiction in which the Licensor resides,
+without regard to conflict-of-law principles.
 
+────────────────────────────────────────────────────────
+
+10. SEVERABILITY
+
+If any provision of this Agreement is found to be invalid, illegal,
+or unenforceable, the remaining provisions shall remain in full force
+and effect.
+
+────────────────────────────────────────────────────────
+
+11. ENTIRE AGREEMENT
+
+This Agreement constitutes the complete and exclusive agreement
+between You and the Licensor regarding the Software and supersedes
+all prior understandings relating to the Software.
+
+────────────────────────────────────────────────────────
+
+12. ACCEPTANCE
+
+By downloading, installing, copying, accessing, executing, possessing,
+or using CropsyStudio, You acknowledge that You have read, understood,
+and agreed to be bound by this Agreement.
