@@ -1,6 +1,6 @@
 CROPSYSTUDIO SOFTWARE LICENSE AGREEMENT
 
-© Copyright (c) 2026 Project Cropsystudio.
+© Copyright (c) 2026 Cropsy Interactive.
 **All rights reserved.**
 
 IMPORTANT:
