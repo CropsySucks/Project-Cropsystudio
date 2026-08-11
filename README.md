@@ -9,8 +9,6 @@ This is Cropsy Studio by Cropsy.
 ❗ | **Cropsy Studio is still in work. You cannot find the link to download Cropsy Studio at the moment. Please wait for the program to be finished**
 
 -----------------------------------------------------------------------
-**THIS PROGRAM**
-
 ## License Summary
 
 CropsyStudio is proprietary software.
@@ -23,4 +21,3 @@ All rights to CropsyStudio, including its code, assets, branding,
 and related materials, are owned by Cropsy.
 
 See `LICENSE.txt` for full terms.
------------------------------------------------------------------------
