@@ -8,6 +8,7 @@ This is Cropsy Studio by Cropsy.
 
 ❗ | **Cropsy Studio is still in work. You cannot find the link to download Cropsy Studio at the moment. Please wait for the program to be finished.**
 
+📕 | **THIS GITHUB IS PURELY INFORMATIONAL ONLY. NO DOWNLOADING HERE.**
 *Updated: 8/10/26*
 
 -----------------------------------------------------------------------
