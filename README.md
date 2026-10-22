@@ -6,6 +6,8 @@ This is Cropsy Studio by Cropsy.
 
 🪲 | If you want to report an important bug or something, you can email me at cubemanunofficial@gmail.com. For now, I don't really have a way to report a bug. I don't want a Discord server simply because you can just download an external program to hack it. So for now, I will keep my email for reporting bugs or simply requesting a new feature. You can also use my email to question me. PLEASE, if you found this website (this GitHub), please do not share the link with anyone.
 
+❓ | How will I use Cropsy Studio? How do I gain access to it? Well, accessing the program requires a license key. A highly complex letters of key. To prevent misuse, the key is only 1 time use. When used, it is consumed.
+
 ❗ | **Cropsy Studio is still in work. You cannot find the link to download Cropsy Studio at the moment. Please wait for the program to be finished.**
 
 📕 | **THIS GITHUB IS PURELY INFORMATIONAL ONLY. NO DOWNLOADING HERE.**
